@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Título de la publicación
-author: David Charte
-category: programación
+title: Segunda Publicacion
+author: Tomas Garza
+category: Programación
 tags:
-  - jekyll
-  - ruby
+  - Prueba
+  - JS
 ---
 
 ¡El contenido de esta publicación es un borrador!
