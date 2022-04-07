@@ -1,6 +1,6 @@
 {% for post in paginator.posts %}
   <div class="post">
-    <h1>{{ post.title }}</h1>
+    <h1>{{ Feliz Martes }}</h1>
     {{ post.content }}
   </div>
 {% endfor %}
